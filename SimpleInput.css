@@ -1,0 +1,28 @@
+.login_signupOverlay {
+    width: 400px;
+    background-color: white;
+    transition: width 1s;
+    height: 100vh;
+    float: right;
+    margin-top: -8px;
+    margin-right: -8px;
+    overflow: hidden;
+}
+
+body {
+    background-color: grey;
+}
+
+.asd {
+    width: 0px;
+}
+
+.buttons {
+    display: inline-block;
+    margin: 0;
+}
+
+.createAccount {
+    cursor: pointer;
+    color: brown;
+}
